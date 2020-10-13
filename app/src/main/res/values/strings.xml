@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q1"> Question One :- Who deceloped android studio ?</string>
+    <string name="a_one_one">George Boole</string>
+    <string name="a_one_two">Sundar Pichai</string>
+    <string name="a_one_three">Google</string>
+    <string name="a_one_four">Open Handset Alliance(OHA)</string>
+    /*********************************/
+    <string name="q2"> Question Two :- Which of the Programming Language Android Based On?</string>
+    <string name="a_two_one">c</string>
+    <string name="a_two_two">c#</string>
+    <string name="a_two_three">c++</string>
+    <string name="a_two_four">Java</string>
+    /*****************************/
+    <string name="q3"> Question Three :- Web browser available in android is based on?</string>
+    <string name="a_three_one">Chrome</string>
+    <string name="a_three_two">Firefox</string>
+    <string name="a_three_three">Open-source Webkit</string>
+    <string name="a_three_four">Opera</string>
+    /*********************/
+    <string name="q4"> Question four :- Android is based on which kernel?</string>
+    <string name="a_four_a">Linux kernel</string>
+    <string name="a_four_b">Windows kernel</string>
+    <string name="a_four_c">MAC kernel</string>
+    <string name="a_four_d">All of the above</string>
+    /****************************/
+    <string name="q5"> Question five :- Is it possible to have an activity without UI to perform action/actions?</string>
+    <string name="a_five_a">Not possible</string>
+    <string name="a_five_b">Wrong question</string>
+    <string name="a_five_c">Yes, it is possible</string>
+    <string name="a_five_d">None of the above</string>
+    /**********************************/
+    <string name="q6"> Question six :- How many orientations does android support?</string>
+
+    /******************************/
+    <string name="q7"> Question seven :- Which permissions are required to get a location in android?</string>
+    <string name="a_seven_a">ACCESS_FINE and ACCESS_COARSE</string>
+    <string name="a_seven_b">GPRS permission</string>
+    <string name="a_seven_c">Internet permission</string>
+    <string name="a_seven_d">WIFI permission</string>
+    /*******************************/
+    <string name="q8"> Question eight :- What is a thread in android?</string>
+    <string name="a_eight_a">Same as services</string>
+    <string name="a_eight_b">Background activity</string>
+    <string name="a_eight_c">Broadcast Receiver</string>
+    <string name="a_eight_d">Independent dis-patchable unit is called a thread</string>
+    /*********************************/
+    <string name="q9"> Question nine :- Which the dialog box which is supported by Android?</string>
+    <string name="a_nine_a">  Alert Dialog</string>
+    <string name="a_nine_b">Dialog</string>
+    <string name="a_nine_c">Date Picker Dialog</string>
+    <string name="a_nine_d"> Progress Dialog</string>
+    /********************************/
+    <string name="q10"> Question ten :-How many type from  Intent ?</string>
+
+    /*********************************/
+    <string name="submit"> Submit</string>
+
+</resources>
